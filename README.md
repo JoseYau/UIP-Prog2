@@ -1,2 +1,14 @@
-# UIP-Prog2
-Repositorio #1
+======================================
+Programación de Computadoras III - UIP
+======================================
+
+:Autor: <nombre>
+:Fecha: <fecha>
+:Versión: <version>
+
+<descripcion>
+
+—-------
+Licencia
+—-------
+<licencia>
